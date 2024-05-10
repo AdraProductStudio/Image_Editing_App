@@ -21,12 +21,12 @@ const Navbar = () => {
         </button>
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav ms-auto">
-            <li className="nav-item">
+            {/* <li className="nav-item">
               <a className="nav-link" href="#">
                <FaBell/>
               </a>
-            </li>
-            <li className="nav-item dropdown">
+            </li> */}
+            {/* <li className="nav-item dropdown">
               <a
                 className="nav-link dropdown-toggle"
                 href="#"
@@ -57,15 +57,15 @@ const Navbar = () => {
                   </a>
                 </li>
               </ul>
-            </li>
-            <li className="nav-item">
+            </li> */}
+            {/* <li className="nav-item">
               <img
                 src={profileImage}
                 alt="Profile"
                 className="rounded-circle"
                 style={{ width: "40px", marginLeft: "10px" }}
               />
-            </li>
+            </li> */}
           </ul>
         </div>
       </div>

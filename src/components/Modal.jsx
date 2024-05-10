@@ -263,13 +263,13 @@ const Modal = ({ imageSrc }) => {
             </div>
           </div>
           <div className="modal-footer">
-            <button
+            {/* <button
               type="button"
               className="btn btn-secondary"
               data-bs-dismiss="modal"
             >
               Share
-            </button>
+            </button> */}
             <button
               type="button"
               className="btn btn-primary"
