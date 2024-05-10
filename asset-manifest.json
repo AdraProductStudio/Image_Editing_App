@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Image_Editing_App/static/css/main.62fbcad6.css",
+    "main.js": "/Image_Editing_App/static/js/main.2a4ba6a3.js",
+    "static/media/test3.jpg": "/Image_Editing_App/static/media/test3.d9232e4faf7ca5692a8f.jpg",
+    "static/media/test4.jpg": "/Image_Editing_App/static/media/test4.6650f5cd10581ac76a67.jpg",
+    "static/media/test2.jpg": "/Image_Editing_App/static/media/test2.89a3d2e64c338b757078.jpg",
+    "static/media/test8.jpg": "/Image_Editing_App/static/media/test8.aa5b2a0117230eb79d52.jpg",
+    "static/media/test6.jpg": "/Image_Editing_App/static/media/test6.d4ac7c8264c748767bcf.jpg",
+    "static/media/test1.jpg": "/Image_Editing_App/static/media/test1.77dc8c6db80a202b5db9.jpg",
+    "static/media/test7.jpg": "/Image_Editing_App/static/media/test7.221085d9ec74c41ba14f.jpg",
+    "static/media/natural.jpg": "/Image_Editing_App/static/media/natural.f4d65b06c7788cd31f47.jpg",
+    "static/media/default_profile_picture.png": "/Image_Editing_App/static/media/default_profile_picture.75f8919826989fae1a63.png",
+    "index.html": "/Image_Editing_App/index.html",
+    "main.62fbcad6.css.map": "/Image_Editing_App/static/css/main.62fbcad6.css.map",
+    "main.2a4ba6a3.js.map": "/Image_Editing_App/static/js/main.2a4ba6a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62fbcad6.css",
+    "static/js/main.2a4ba6a3.js"
+  ]
+}
